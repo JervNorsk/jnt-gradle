@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="git-jvm-0.1.0">
+    <output-path>$PROJECT_DIR$/plugins/git/build/libs</output-path>
+    <root id="archive" name="git-jvm-0.1.0.jar">
+      <element id="module-output" name="jnt-gradle.plugins.git.jvmMain" />
+    </root>
+  </artifact>
+</component>
